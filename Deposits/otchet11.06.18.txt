@@ -1,0 +1,6 @@
+Сумма                 Профит
+summ =   2500,00      interest =    75,21
+summ =   5500,00      interest =    69,16
+summ =  10000,00      interest =  1038,52
+summ =  12000,00      interest =   478,68
+summ =  43000,00      interest =  8503,54
